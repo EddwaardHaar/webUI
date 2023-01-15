@@ -1,0 +1,19 @@
+/*.stvorec{
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+*/
+body{
+    background-image: url("http://staff.hamk.fi/~tsaksa/temp/background-image.jpg");
+}
+.container{
+    max-width: 1200px;
+}
